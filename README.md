@@ -1,170 +1,97 @@
-# 👋 Hi, I’m Mohamed Aaqil — AI/ML researcher & physics enthusiast.
+<div align="center">
 
-I’m building at the intersection of **scientific machine learning**, **physics-informed AI**, **neural operators**, and **industrial AI systems**.
+# Mohamed Aaqil
 
-My current focus is applying **Clifford-algebra neural networks** to **fluid dynamics PDEs** and exploring AI for **pharmaceutical manufacturing analytics**, including process modeling, yield optimization, and interpretable ML.
+### AI Research · Scientific Machine Learning · Intelligent Physical Systems
 
-<p align="left">
-  <a href="https://github.com/Muneeraaqil"><img src="https://komarev.com/ghpvc/?username=Muneeraaqil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
-  <a href="https://github.com/Muneeraaqil?tab=followers"><img src="https://img.shields.io/github/followers/Muneeraaqil?label=Followers&style=social" alt="GitHub followers" /></a>
-  <img src="https://img.shields.io/badge/Scientific%20ML-Neural%20Operators-blue" alt="Scientific ML" />
-  <img src="https://img.shields.io/badge/Physics-PDEs%20%26%20Modeling-green" alt="Physics-informed AI" />
-  <img src="https://img.shields.io/badge/AI-Industrial%20Systems-orange" alt="Industrial AI" />
-</p>
+I build learning systems that combine **mathematical structure, physical priors, and scalable intelligence**—with a long-term focus on AI systems capable of scientific discovery.
+
+[![GitHub followers](https://img.shields.io/github/followers/Muneeraaqil?style=flat-square&logo=github&label=Followers)](https://github.com/Muneeraaqil?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=Muneeraaqil&style=flat-square&color=0e75b6)
+![Focus](https://img.shields.io/badge/Focus-AI%20for%20Science-6C63FF?style=flat-square)
+![Research](https://img.shields.io/badge/Research-Neural%20Operators-00A98F?style=flat-square)
+
+</div>
 
 ---
 
-## 🚀 Current Focus
+## Research thesis
 
-- **Clifford-algebra neural networks** for geometry-aware representation learning.
-- **Neural operators for PDEs**, especially fluid dynamics and scientific simulation tasks.
-- **Physics-informed modeling** where constraints, structure, and data efficiency matter.
-- **AI for pharmaceutical manufacturing analytics**, including process modeling and interpretable ML.
-- **Research-to-product engineering**: turning technical ideas into reproducible code, experiments, and usable systems.
+The next major leap in AI will come from systems that do more than interpolate over human-generated data. I am interested in models that learn **causal, geometric, and dynamical structure**—then use it to reason, simulate, design, and discover.
 
-```txt
-Scientific ML × PDEs × Clifford algebra × Industrial AI
+My work sits at the intersection of:
+
+- **Scientific machine learning** — neural operators, PDE learning, differentiable simulation, physics-informed learning
+- **Geometric deep learning** — Clifford/geometric algebra, equivariance, structure-preserving representations
+- **World models and agents** — causal abstractions, planning, reinforcement learning, autonomous experimentation
+- **AI for discovery** — computational biology, drug discovery, materials, energy, and complex physical systems
+- **Research engineering** — reproducible experiments, rigorous evaluation, efficient training, and usable systems
+
+```text
+Mathematical structure + physical priors + learned representations → generalizable intelligence
 ```
 
----
+## Current research directions
 
-## 🔬 Highlights / Recent Work
+| Direction | Core question | Intended output |
+|---|---|---|
+| Clifford neural operators | Can geometric algebra improve operator learning for vector- and multivector-valued physical fields? | Models, ablations, PDE benchmarks |
+| Intervention-consistent world models | Can learned latent dynamics preserve causal behavior under intervention? | Formal objectives, environments, evaluation suite |
+| AI for molecular discovery | How can structural priors and uncertainty improve RNA-targeted candidate generation? | Reproducible pipeline and validated benchmarks |
+| Autonomous scientific discovery | How should agents select experiments, update hypotheses, and allocate compute? | Agent architecture and closed-loop testbed |
+| Industrial intelligence | How can constrained ML improve process yield, quality, and interpretability? | Decision-support pipeline and model cards |
 
-### 🔬 Tackling PDEs with Neural Operators — [Paper / Project Link](#)
-Exploring operator-learning methods for PDE-governed systems, with emphasis on geometric structure, physical inductive bias, and scalable implementation.
+## Operating principles
 
-### 🧪 AI for Pharmaceutical Manufacturing — [Project / Notes Link](#)
-Building ML workflows for process modeling, quality prediction, and interpretable manufacturing intelligence.
+1. **Mechanism over demos** — isolate why a method works.
+2. **Baselines before novelty** — earn every claimed improvement.
+3. **Reproducibility by default** — fixed seeds, configs, tests, and documented environments.
+4. **Evaluation under shift** — test extrapolation, interventions, robustness, and calibration.
+5. **Research that compounds** — reusable datasets, benchmarks, libraries, and technical notes.
 
-### 📡 5G + Autonomous Systems — [Project / Demo Link](#)
-Applied engineering work around communication-aware autonomous systems, drones, and intelligent infrastructure.
+## Technical stack
 
----
+**Research:** Python · PyTorch · JAX · NumPy · SciPy · scikit-learn · Jupyter  
+**Mathematics:** Linear algebra · probability · optimization · differential equations · geometric algebra  
+**Engineering:** Git · Linux · TypeScript · React · experiment tracking · CI  
+**Focus areas:** Deep learning · reinforcement learning · neural operators · geometric deep learning · causal representation learning
 
-## 🧠 Technical Positioning
-
-| Layer | Focus |
-|---|---|
-| Mathematics | Clifford algebra, PDEs, scientific computing |
-| AI/ML | Neural operators, geometric deep learning, physics-informed ML |
-| Engineering | Reproducible experiments, clean research code, full-stack AI systems |
-| Domain | Fluid dynamics, manufacturing analytics, autonomous systems |
-
----
-
-## 🧪 Key Projects
-
-### [`Neural-Op-PDE`](#)
-**Clifford-based operator for fluid dynamics PDE modeling.**
-
-Research-oriented scientific ML project exploring how geometry-aware representations can improve operator learning for PDE-governed systems.
-
-**Planned artifacts:** baseline solver, model implementation, ablations, plots, paper notes, benchmark comparisons.
-
----
-
-### [`DrugPharmAI`](#)
-**ML pipeline for optimizing manufacturing yields.**
-
-Applied industrial AI project focused on process modeling, yield prediction, quality analytics, and interpretable ML.
-
-**Planned artifacts:** safe dataset, model cards, evaluation metrics, dashboard, interpretability reports.
-
----
-
-### [`5G-Drone-Net`](#)
-**5G-enabled drone-networking and intelligent systems project.**
-
-Systems-oriented project connecting drones, communication constraints, telemetry, and intelligent coordination.
-
-**Planned artifacts:** simulator, benchmark scenarios, latency plots, routing baselines, architecture diagram.
-
----
-
-### [`Xperience Leads`](https://github.com/Muneeraaqil/xperience-leads)
-**AI-native lead intelligence OS.**
-
-Product-focused full-stack AI prototype showing UI, strategy, ranking, and account-intelligence workflows.
-
-**Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui.
-
----
-
-## 🔮 Future Build Slots
-
-- **`CliffordFlowLab`** — experimental lab for geometry-aware fluid modeling.
-- **`SciML-Reading-Notes`** — concise notes on neural operators, PDE learning, Clifford algebra, and physics-informed ML.
-- **`PDE-Bench-Notes`** — benchmark summaries, reproduction notes, and implementation sketches.
-
----
-
-## 📈 GitHub Signal
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muneeraaqil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,linux,typescript,react" alt="Core tools" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeraaqil&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+## Repository standard
 
-```txt
-Repositories: [verified number]
-Contributions in last year: [verified number]
-Stars on flagship project: [verified number]
-Papers / reports: [verified links]
-```
+Every serious research repository I publish is designed to include:
 
----
+- a falsifiable research question and explicit hypotheses;
+- environment and data provenance;
+- strong baselines and ablation studies;
+- train/evaluate commands that run from a clean checkout;
+- uncertainty, robustness, and failure analysis;
+- model cards, limitations, and reproducible results.
 
-## 🛠️ Tools & Frameworks
+## Collaboration
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="42" height="42" alt="SciPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-</p>
+I am open to high-agency collaboration on:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-0A7EA4?style=flat&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+- neural operators and scientific foundation models;
+- geometric and physics-informed deep learning;
+- causal world models and autonomous research agents;
+- AI for computational biology, materials, energy, and manufacturing;
+- benchmark design and rigorous reproduction of frontier research.
 
-**Core ML / Scientific Computing:** Python, PyTorch, JAX, NumPy, SciPy, scikit-learn  
-**Research Interests:** Neural operators, Clifford algebra, PDE modeling, physics-informed ML  
-**Engineering:** Git, Linux, reproducible experiments, technical documentation, full-stack AI prototypes  
-**Applied Domains:** Fluid dynamics, manufacturing analytics, wireless/autonomous systems
+The fastest way to evaluate fit is a concrete proposal: **problem, hypothesis, available data/compute, and the experiment that could falsify it.**
+
+## Contact
+
+- GitHub: [@Muneeraaqil](https://github.com/Muneeraaqil)
+- Email: [muneeraaqil999@gmail.com](mailto:muneeraaqil999@gmail.com)
 
 ---
 
-## 🤝 What I’m Looking For
+<div align="center">
 
-- Research collaborations in **scientific ML**, **neural operators**, and **physics-informed AI**.
-- Internship or research opportunities involving **AI for physical systems**.
-- Open-source contributions around **PDE solvers**, **geometric deep learning**, and **industrial AI**.
-- Conversations with researchers, engineers, and founders building serious deep-tech systems.
+**Building AI that can understand structure, reason over dynamics, and accelerate discovery.**
 
----
-
-## 📫 Connect
-
-- **GitHub:** [@Muneeraaqil](https://github.com/Muneeraaqil)
-- **Email:** [muneeraaqil999@gmail.com](mailto:muneeraaqil999@gmail.com)
-- **LinkedIn:** `[Add LinkedIn]`
-- **Website / Portfolio:** `[Add website]`
-- **Paper / Preprint:** `[Add paper link]`
-
----
-
-<p align="center">
-  <b>Building research-grade AI systems for physics, scientific computing, and real-world industrial intelligence.</b>
-</p>
+</div>
